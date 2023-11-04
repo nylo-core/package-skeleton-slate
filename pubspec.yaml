@@ -8,7 +8,7 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  nylo_support: 5.1.1
+  nylo_support: 5.14.0
   flutter:
     sdk: flutter
   args: ^2.3.1

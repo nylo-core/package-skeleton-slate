@@ -10,6 +10,18 @@ dependencies:
   ny_slate_package: ^0.0.1
 ```
 
+## Usage
+
+Run the below command in your project.
+
+``` bash
+dart run my_slate_template:main publish:all
+
+// or with metro
+
+dart run nylo_framework:main publish:slate ny_slate_package
+```
+
 ## Requirements
 * Dart >= 2.19.0
 * Flutter >= 3.7.0
@@ -20,14 +32,6 @@ dependencies:
   - ProfilePage
 - Widgets
   - Buttons
-
-## Usage
-
-Run the below command in your project.
-
-``` bash
-flutter pub run my_slate_package:main publish:all
-```
 
 ## Changelog
 Please see [CHANGELOG](https://github.com/nylo-core/username/repo/CHANGELOG.md) for more information what has changed recently.

@@ -1,8 +1,3 @@
-## 0.1.0
-
-* Small refactor
-* Dependency updates
-
-## 0.0.1
+## 0.0.1 - 2050-05-25
 
 * Initial release

@@ -9,7 +9,7 @@ import 'package:nylo_support/metro/models/ny_template.dart';
 | Add your stub templates inside the /stubs directory.
 | Then add them into the `run` method like in the example below.
 | Install the package in your project and run the below in the terminal.
-| "flutter pub run my_slate_template:main publish:all"
+| "dart run my_slate_template:main publish:all"
 |
 | Learn more https://nylo.dev/docs/5.x/slates
 |--------------------------------------------------------------------------
@@ -29,7 +29,7 @@ List<NyTemplate> run() => [
 
 /*
 |--------------------------------------------------------------------------
-| Reference - saveTo Accepted Folders
+| Directory Reference
 |
 | controllersFolder = 'lib/app/controllers';
 | widgetsFolder = 'lib/resources/widgets';
