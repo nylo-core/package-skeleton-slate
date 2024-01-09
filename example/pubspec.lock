@@ -13,10 +13,10 @@ packages:
     dependency: transitive
     description:
       name: args
-      sha256: "139d809800a412ebb26a3892da228b2d0ba36f0ef5d9a82166e5e52ec8d61611"
+      sha256: eef6c46b622e0494a36c5a12d10d77fb4e855501a91c1b9ef9339326e58f0596
       url: "https://pub.dev"
     source: hosted
-    version: "2.3.2"
+    version: "2.4.2"
   async:
     dependency: transitive
     description:
@@ -61,10 +61,10 @@ packages:
     dependency: transitive
     description:
       name: dio
-      sha256: "01870acd87986f768e0c09cc4d7a19a59d814af7b34cbeb0b437d2c33bdfea4c"
+      sha256: "797e1e341c3dd2f69f2dad42564a6feff3bfb87187d05abb93b9609e6f1645c3"
       url: "https://pub.dev"
     source: hosted
-    version: "5.3.4"
+    version: "5.4.0"
   equatable:
     dependency: transitive
     description:
@@ -240,10 +240,10 @@ packages:
     dependency: transitive
     description:
       name: nylo_support
-      sha256: "5e7fc756c54e0b802fa502a3d33b3e286fdb1f8df442301818f409d81882ddb5"
+      sha256: "0931447bd85e85451ae7326f3a70b42bb61a9384352d32e4cae28d241e11f6a6"
       url: "https://pub.dev"
     source: hosted
-    version: "5.17.0"
+    version: "5.28.0"
   page_transition:
     dependency: transitive
     description:

@@ -24,8 +24,8 @@ List<NyTemplate> run() => [
       //   stub: stubLoginPage(),
       // ),
 
-    /// add more templates...
-];
+      /// add more templates...
+    ];
 
 /*
 |--------------------------------------------------------------------------
