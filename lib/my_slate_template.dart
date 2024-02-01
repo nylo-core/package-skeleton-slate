@@ -11,7 +11,7 @@ import 'package:nylo_support/metro/models/ny_template.dart';
 | Install the package in your project and run the below in the terminal.
 | "dart run my_slate_template:main publish:all"
 |
-| Learn more https://nylo.dev/docs/5.x/slates
+| Learn more https://nylo.dev/docs/5.20.0/slates
 |--------------------------------------------------------------------------
 */
 
