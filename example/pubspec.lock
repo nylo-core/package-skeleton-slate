@@ -5,10 +5,10 @@ packages:
     dependency: transitive
     description:
       name: animate_do
-      sha256: "8a9d0f91d066d5f86bd9de9455e5741e6bbb284b114c76375f01584065dd3da1"
+      sha256: "7a3162729f0ea042f9dd84da217c5bde5472ad9cef644079929d4304a5dc4ca0"
       url: "https://pub.dev"
     source: hosted
-    version: "3.3.3"
+    version: "3.3.4"
   args:
     dependency: transitive
     description:
@@ -61,10 +61,10 @@ packages:
     dependency: transitive
     description:
       name: dio
-      sha256: "797e1e341c3dd2f69f2dad42564a6feff3bfb87187d05abb93b9609e6f1645c3"
+      sha256: "49af28382aefc53562459104f64d16b9dfd1e8ef68c862d5af436cc8356ce5a8"
       url: "https://pub.dev"
     source: hosted
-    version: "5.4.0"
+    version: "5.4.1"
   equatable:
     dependency: transitive
     description:
@@ -280,10 +280,10 @@ packages:
     dependency: transitive
     description:
       name: nylo_support
-      sha256: bd0995e801ca746e447cad2878aa1c0b55191ec033f17f33bfb78f7d99a421be
+      sha256: "36f7b966fe5a8a53d144f72b31e1eabb926f27d596cc4a766e177a28ac223340"
       url: "https://pub.dev"
     source: hosted
-    version: "5.48.0"
+    version: "5.54.0"
   page_transition:
     dependency: transitive
     description:
@@ -464,10 +464,10 @@ packages:
     dependency: transitive
     description:
       name: skeletonizer
-      sha256: "86f373126d9a887a2d63f2463a9913a973ce7f282efa7f0d9d06a17e3f19838c"
+      sha256: "2eb80153c80507359ff05f6a18ed50ae0bafa1b999aa867a8cef0a53387b5650"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.1"
+    version: "1.1.0"
   sky_engine:
     dependency: transitive
     description: flutter
