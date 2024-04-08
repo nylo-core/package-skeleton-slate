@@ -1,16 +1,11 @@
 library metro;
 
-import 'dart:io';
-
 import 'package:args/args.dart';
-import 'package:collection/collection.dart';
 import 'package:nylo_support/metro/constants/strings.dart';
-import 'package:nylo_support/metro/metro_console.dart';
 import 'package:nylo_support/metro/metro_service.dart';
 import 'package:nylo_support/metro/models/ny_command.dart';
 import 'package:nylo_support/metro/models/ny_template.dart';
 import '/my_slate_template.dart';
-import '/metro/menu.dart';
 
 final ArgParser parser = ArgParser(allowTrailingOptions: true);
 List<NyCommand> allCommands = [

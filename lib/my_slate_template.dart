@@ -2,18 +2,15 @@ library my_slate_template;
 
 import 'package:nylo_support/metro/models/ny_template.dart';
 
-/*
+/* Publish template files
 |--------------------------------------------------------------------------
-| Publish template files
-|
 | Add your stub templates inside the /stubs directory.
 | Then add them into the `run` method like in the example below.
 | Install the package in your project and run the below in the terminal.
 | "dart run my_slate_template:main publish:all"
 |
 | Learn more https://nylo.dev/docs/5.20.0/slates
-|--------------------------------------------------------------------------
-*/
+|-------------------------------------------------------------------------- */
 
 List<NyTemplate> run() => [
       /// Example
@@ -27,10 +24,8 @@ List<NyTemplate> run() => [
       /// add more templates...
     ];
 
-/*
+/* Directory Reference
 |--------------------------------------------------------------------------
-| Directory Reference
-|
 | controllersFolder = 'lib/app/controllers';
 | widgetsFolder = 'lib/resources/widgets';
 | pagesFolder = 'lib/resources/pages';
@@ -40,5 +35,4 @@ List<NyTemplate> run() => [
 | eventsFolder = 'lib/app/events';
 | networkingFolder = 'lib/app/networking';
 | themeColorsFolder = 'lib/resources/themes/styles';
-|--------------------------------------------------------------------------
-*/
+|-------------------------------------------------------------------------- */
